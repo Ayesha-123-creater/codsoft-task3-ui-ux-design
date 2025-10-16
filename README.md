@@ -30,7 +30,7 @@ To create a *minimal and visually clear restaurant menu interface* that can be u
 ---
 
 ## 🛠 Tools Used
-- *Figma / Adobe XD / (mention your tool)*  
+- *Figma 
 - *Design Principles: Alignment, Spacing, Contrast, Readability*
 
 ---
